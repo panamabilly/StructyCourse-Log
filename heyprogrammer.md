@@ -1,4 +1,5 @@
-### hey programmer
+### hey programmer 
+structy.net/problems/hey-programmer
 
 Welcome to Structy! Watch the approach video in the tab at the top of this window to get started.
 
