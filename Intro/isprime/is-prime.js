@@ -1,5 +1,8 @@
 const isPrime = (n) => {
-	// todo
+	// code only works for positive integers
+	if (n > 0) {
+		
+	}
 };
 
 module.exports = {
